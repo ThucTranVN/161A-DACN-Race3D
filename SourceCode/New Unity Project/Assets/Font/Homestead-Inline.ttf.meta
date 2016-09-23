@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 72d81605cf2ce4b9ca576a75fd0b0a0a
+timeCreated: 1474436803
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Homestead
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 37912d771ff2b4b9aa9da7f4564c5c16, type: 3}
+  - {fileID: 12800000, guid: 597627392b26a4adc95883d48b638149, type: 3}
+  - {fileID: 12800000, guid: 5dd30a99f4b2d4f5fb2a9e51bc1e8239, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

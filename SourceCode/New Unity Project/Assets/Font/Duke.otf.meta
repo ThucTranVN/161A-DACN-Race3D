@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c8259f39760d8440b98196fe2791fe07
+timeCreated: 1474436791
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Duke
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 39b12d9b984754a489adc1af973ca6f3, type: 3}
+  - {fileID: 12800000, guid: b86ce28dcf0ea40f3a55109f216a6217, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
